@@ -1,0 +1,7 @@
+ONE = 'man'
+TWO = 'ls'
+THREE = 'mkdir'
+FOUR = 'touch'
+FIVE = 'mv'
+SIX = 'cp'
+SEVEN = 'rm'
